@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5125193-3034-48b3-b75e-9fea190e9467" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZRb3mLXbsrENptuUnBFOQ65AKA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Test" />
+      <option name="PROGRAM_PARAMETERS" value="D:\ D:\input.csv D:\input2.csv" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5125193-3034-48b3-b75e-9fea190e9467" name="Default Changelist" comment="" />
+      <created>1584804656354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584804656354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584900571654">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1584900571654" />
+    <state x="709" y="245" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584899789387">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="709" y="245" key="#com.intellij.ide.macro.MacrosDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1584899789387" />
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1584900936505">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1584900936505" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1584900936505">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1584900936505" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1584900936505">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1584900936505" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1584900936505">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1584900936505" />
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom" timestamp="1584900936503">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1584900936503" />
+    <state width="1815" height="364" key="GridCell.Tab.1.center" timestamp="1584900936503">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1584900936503" />
+    <state width="1815" height="364" key="GridCell.Tab.1.left" timestamp="1584900936503">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1584900936503" />
+    <state width="1815" height="364" key="GridCell.Tab.1.right" timestamp="1584900936503">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="364" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1584900936503" />
+    <state x="625" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1584944221742">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="625" y="364" key="com.intellij.ide.util.TipDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1584944221742" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="fw" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
